@@ -39,7 +39,7 @@ Now Playing : Dream Theater - Just Let Me Breathe
 
 # Triste
 ![triste](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/triste.jpg) <br />
-Now Playing : Dream Theater - Endless Sacrifice
+Now Playing: Dream Theater - Endless Sacrifice
 
 # Vent
 ![vent](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/vent.jpg) <br />
